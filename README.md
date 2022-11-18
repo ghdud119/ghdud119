@@ -1,6 +1,6 @@
-### Hi there 👋
 
-###Song, Ho Young
+
+
 
 <!--
 **ghdud119/ghdud119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+### Song, Ho Young
 
-
-###Development Skill  
+### Development Skill  
   <img src="https://img.shields.io/badge/C++-00599?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/ C -007396?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/> <img src="https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=Vulkan&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal-007396?style=flat&logo=Unreal Engine&logoColor=white"/>
   
-###interested in Computer Graphics, Unreal Engine
+### interested in Computer Graphics, Unreal Engine
 
-###I'm currently learning about Vulkan and Unreal Engine
+### I'm currently learning about Vulkan and Unreal Engine
 
 
 
