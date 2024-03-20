@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 ### Development Skill  
   <img src="https://img.shields.io/badge/C++-00599?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/ C -007396?style=flat&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/> <img src="https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=Vulkan&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal-007396?style=flat&logo=Unreal Engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal-007396?style=flat&logo=Unreal Engine&logoColor=white"/>
   
 ### interested in Computer Graphics, Unreal Engine
 
